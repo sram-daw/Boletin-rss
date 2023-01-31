@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Canal RSS</title>
+        <link>http://miservidor.com</link>
+        <description>Una sencilla guía para crear un canal RSS.</description>
+        <category>Tecnología</category>
+        <copyright>Sara, 2023®</copyright>
+        <language>es-ES</language>
+        <image>
+            <title>Canal RSS</title>
+            <url>https://media.tenor.com/hFcNzDcOVlkAAAAd/angry-pingu.gif</url>
+            <link>http://miservidor.com/</link>
+            <width>128</width>
+            <height>128</height>
+        </image>
+        <item>
+            <title>Una noticia</title>
+            <link>
+                https://www.xataka.com/seleccion/estas-cinco-tarjetas-graficas-rtx-familias-3000-4000-cuestan-mucho-esta-semana-pccomponentes</link>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <description> Descripción de la noticia 1 </description>
+            <category>Ordenadores</category>
+            <author>Sara</author>
+            <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis minima
+                quisquam exercitationem ex hic.</description>
+        </item>
+        <item>
+            <title>Otra noticia</title>
+            <link>
+                https://www.xataka.com/moviles/quieres-movil-bueno-barato-gama-media-2022-tiene-grandes-alegrias-para-ti</link>
+            <pubDate>Mon, 22 Mar 2022 01:00:00 GMT</pubDate>
+            <description>Descripcion noticia dos</description>
+            <category>Smartphones</category>
+            <author>Sara</author>
+            <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis minima
+                quisquam exercitationem ex hic.</description>
+        </item>
+        <item>
+            <title>EEUU convierte a Huawei en una empresa paria: amplía el veto y bloquea las
+                exportaciones a este gigante</title>
+            <link>
+                https://www.xataka.com/empresas-y-economia/eeuu-convierte-a-huawei-empresa-paria-amplia-veto-bloquea-exportaciones-a-este-gigante</link>
+            <pubDate>Tue, 31 Jan 2023 13:08:00 CET</pubDate>
+            <category>Actualidad</category>
+            <author>Sara</author>
+            <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis minima
+                quisquam exercitationem ex hic.</description>
+                <enclosure url="https://www.notodofilmfest.com/wp-content/uploads/2019/02/huawei-logo-720x388.png"
+                length="78645" type="image/png" />
+        </item>
+    </channel>
+</rss>
